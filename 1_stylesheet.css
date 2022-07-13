@@ -1,0 +1,34 @@
+/* for the navbar */
+.flinks:link
+{
+    color:rgb(10,10,10);
+}
+
+.flinks:visited
+{
+    color:rgb(10,10,10);
+}
+
+.flinks:hover
+{
+    color:blue;
+}
+
+.slinks:link
+{
+    color:rgb(10,10,10);
+}
+
+.slinks:hover
+{
+    color:red;
+}
+
+/* css for navbar ends here */
+
+body
+{
+    background-image: url('back7.png');
+    background-repeat: repeat;
+    background-size: 100%;
+}
